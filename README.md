@@ -1,8 +1,8 @@
-# ShaftDesignMATLAB
+# MATLAB Shaft Design Toolkit 
 
 ## Description
 
-**ShaftDesignMATLAB** is an open-source project dedicated to developing robust and efficient MATLAB code for the design and analysis of mechanical shafts. This repository aims to provide engineers, researchers, and students with a comprehensive set of tools to simplify and enhance the shaft design process, ensuring optimal performance and reliability.
+**MATLAB Shaft Design Toolkit ** is an open-source project dedicated to developing robust and efficient MATLAB code for the design and analysis of mechanical shafts. This repository aims to provide engineers, researchers, and students with a comprehensive set of tools to simplify and enhance the shaft design process, ensuring optimal performance and reliability.
 
 ## Features
 - **Design Calculations**: Perform key design calculations such as torsional stress, bending stress, and deflection.
