@@ -41,7 +41,7 @@
     Loads_with_position([0.4, 'pulley'], [0.8, 'gear'], [1, 'sprocket'], [1.3, 'pulley'])
 
 4. **Follow the Instructions**:
-      **Follow the instructions provided by the program to complete the shaft design process.**
+**Follow the instructions provided by the program to complete the shaft design process.**
 
 ## Usage
 **Detailed usage instructions and examples can be found in the 'docs' directory. Here you will 
