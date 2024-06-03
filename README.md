@@ -43,8 +43,8 @@
 4. **Follow the Instructions**:
 **Follow the instructions provided by the program to complete the shaft design process.**
 
-## Usage
-**Detailed usage instructions and examples can be found in the 'docs' directory. Here you will 
+## Documentation
+**For detailed documentation, please refer to the Documentation.pdf file. Here you will 
 find step-by-step guides on how to perform various shaft design calculations and visualize results.**
 
 ## Contributing
